@@ -1,6 +1,8 @@
 # Welcome to JehovahRosNicopadioGonzales.github.io
 ---
 **All about me**
+*Scoials*
+> [**Facebook**]https://www.facebook.com/jeho.felingonzales
 >
 - I listen to music
 >
@@ -9,4 +11,4 @@
 
 - I play basketball
 >
-><iframe width="560" height="315" src="https://www.youtube.com/embed/kX3nB4PpJko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>
